@@ -1,0 +1,16 @@
+C:\Users\Медиацентр\source\repos\TableData\TableData\bin\Debug\TableData.exe.config
+C:\Users\Медиацентр\source\repos\TableData\TableData\bin\Debug\TableData.exe
+C:\Users\Медиацентр\source\repos\TableData\TableData\bin\Debug\TableData.pdb
+C:\Users\Медиацентр\source\repos\TableData\TableData\obj\Debug\TableData.csproj.AssemblyReference.cache
+C:\Users\Медиацентр\source\repos\TableData\TableData\obj\Debug\TableData.csproj.SuggestedBindingRedirects.cache
+C:\Users\Медиацентр\source\repos\TableData\TableData\obj\Debug\TableData.csproj.CoreCompileInputs.cache
+C:\Users\Медиацентр\source\repos\TableData\TableData\obj\Debug\TableData.exe
+C:\Users\Медиацентр\source\repos\TableData\TableData\obj\Debug\TableData.pdb
+C:\Users\mensh\Desktop\Учёба\Макиевский\TableCafe-master\TableData\bin\Debug\TableData.exe.config
+C:\Users\mensh\Desktop\Учёба\Макиевский\TableCafe-master\TableData\bin\Debug\TableData.exe
+C:\Users\mensh\Desktop\Учёба\Макиевский\TableCafe-master\TableData\bin\Debug\TableData.pdb
+C:\Users\mensh\Desktop\Учёба\Макиевский\TableCafe-master\TableData\obj\Debug\TableData.csproj.AssemblyReference.cache
+C:\Users\mensh\Desktop\Учёба\Макиевский\TableCafe-master\TableData\obj\Debug\TableData.csproj.SuggestedBindingRedirects.cache
+C:\Users\mensh\Desktop\Учёба\Макиевский\TableCafe-master\TableData\obj\Debug\TableData.csproj.CoreCompileInputs.cache
+C:\Users\mensh\Desktop\Учёба\Макиевский\TableCafe-master\TableData\obj\Debug\TableData.exe
+C:\Users\mensh\Desktop\Учёба\Макиевский\TableCafe-master\TableData\obj\Debug\TableData.pdb
